@@ -36,7 +36,8 @@ greenlet==3.5.4
 griffe==2.1.0
 griffecli==2.1.0
 griffelib==2.1.0
-groq==1.6.0
+openai==1.60.0
+pip-system-certs==5.3
 grpcio==1.83.0
 h11==0.16.0
 hf-xet==1.5.2
