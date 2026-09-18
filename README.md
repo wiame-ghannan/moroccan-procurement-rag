@@ -6,7 +6,7 @@ article and source document behind every answer.
 
 ## Live Demo
 
-🔗 [Try the app](#) *(add your Streamlit Cloud link here once deployed)*
+🔗 [Try the app]
 
 ![Interface screenshot](docs/interface_reponse.png)
 
